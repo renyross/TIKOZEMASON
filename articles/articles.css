@@ -3,10 +3,10 @@
 .article-header .brand{display:block;width:220px;max-width:50%;flex-shrink:1}.brand-image{display:block;width:100%;height:auto;aspect-ratio:2.6;object-fit:cover;object-position:center}@media(max-width:580px){.article-header .brand{width:170px}}
 
 /* Couleurs coordonnées au logo du journal. */
-:root{--navy:#071d2b;--gold:#d8ad56;--gold-dark:#806020;--line:#ded5c2}body{color:var(--navy)}
-.article-header{border-bottom-color:var(--gold)}
-.back-link{color:var(--navy);border-color:var(--gold-dark)}.back-link:hover{background:var(--navy);color:#f4d18b}
+:root{--navy:#071d2b;--gold:#d8ad56;--gold-dark:#806020;--line:#90afc6}body{color:var(--navy)}
+.article-header{border-bottom-color:#24618d}
+.back-link{color:var(--navy);border-color:#24618d}.back-link:hover{background:var(--navy);color:#f4d18b}
 .eyebrow{color:var(--gold-dark)}.lead,.note{color:#56646c}
-blockquote{border-left-color:var(--gold)}.note{border-top-color:var(--line)}
-.reading a{color:var(--gold-dark)}a:focus-visible{outline-color:var(--gold-dark)}
-.article-footer{background:#04131e;color:#f4d18b;border-top-color:var(--gold)}
+blockquote{border-left-color:#24618d}.note{border-top-color:var(--line)}
+.reading a{color:var(--gold-dark)}a:focus-visible{outline-color:#24618d}
+.article-footer{background:#04131e;color:#f4d18b;border-top-color:#24618d}
