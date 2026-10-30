@@ -379,6 +379,22 @@ header .dropdown-navigation .navlinks a:hover,header .dropdown-navigation .navli
 .mobile-newsletter-cta{background:var(--navy);color:#f4d18b}.mobile-newsletter-cta:hover{background:#12364b}
 }
 
+
+/* En-tête un peu plus compact autour du logo. */
+header .brand-row{padding-top:24px;padding-bottom:22px}
+@media(max-width:850px){
+header .brand-row{height:78px;min-height:78px;padding-top:16px;padding-bottom:16px}
+.mobile-navigation-open header .brand-row{height:78px}
+.mobile-navigation-open header{padding-top:78px}
+header .menu.mobile-open{top:78px}
+.mobile-header-search,.mobile-translation{top:22px}
+.mobile-menu-toggle{top:19px}
+}
+
+/* Logo aligné à gauche dans l’en-tête. */
+header .brand-row{justify-content:space-between;align-items:center}
+header .brand-row .brand{margin:0}
+@media(max-width:850px){header .brand-row{justify-content:flex-start}}
 </style>
 </head>
 <body>
@@ -419,7 +435,7 @@ header .dropdown-navigation .navlinks a:hover,header .dropdown-navigation .navli
 <nav class="footer-column" aria-label="L’esprit Tikoze"><h2>L’esprit Tikoze</h2><a href="#manifeste">Notre esprit</a><a href="articles/about.html" data-article="about">Lire le manifeste</a><a href="#pillars-title">Nos rubriques</a><a href="#newsletter-title">La newsletter</a></nav>
 </div>
 <div class="footer-signoff"><span>Penser librement.</span><span>Construire ensemble.</span><a href="#" aria-label="Retour en haut de la page">↑</a></div>
-<div class="footer-bottom"><small>Tikoze Mason © 2026</small><nav aria-label="Informations du site"><a href="articles/privacy.html" id="privacy-button">Confidentialité</a><a href="articles/about.html" data-footer-article="about">À propos de la revue</a></nav><span class="footer-wordmark">ti koze.</span></div>
+<div class="footer-bottom"><small>Tikoze Mason © 2026</small><nav aria-label="Informations du site"><a href="articles/privacy.html" id="privacy-button">Confidentialité</a><a href="articles/about.html" data-footer-article="about">À propos de la revue</a></nav></div>
 </div>
 </footer>
 
