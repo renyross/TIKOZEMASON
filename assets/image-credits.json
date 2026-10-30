@@ -1,0 +1,42 @@
+[
+  {
+    "path": "assets/topic-1.jpg",
+    "title": "RoughAshlar.JPG",
+    "artist": "Comason",
+    "license": "CC BY-SA 3.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:RoughAshlar.JPG"
+  },
+  {
+    "path": "assets/masonic-2.jpg",
+    "title": "Highland Park Masonic Temple, Lodge Room.jpg",
+    "artist": "Los Angeles",
+    "license": "CC BY-SA 3.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Highland_Park_Masonic_Temple,_Lodge_Room.jpg"
+  },
+  {
+    "path": "assets/topic-3.jpg",
+    "title": "Deutsches Freimaurermuseum Bayreuth - inventory (402).jpg",
+    "artist": "User:Mattes",
+    "license": "Public domain",
+    "license_url": "",
+    "source": "https://commons.wikimedia.org/wiki/File:Deutsches_Freimaurermuseum_Bayreuth_-_inventory_(402).jpg"
+  },
+  {
+    "path": "assets/topic-4.jpg",
+    "title": "Declaration of the Rights of Man and of the Citizen in 1789.jpg",
+    "artist": "Wikimedia Commons",
+    "license": "Public domain",
+    "license_url": "",
+    "source": "https://commons.wikimedia.org/wiki/File:Declaration_of_the_Rights_of_Man_and_of_the_Citizen_in_1789.jpg"
+  },
+  {
+    "path": "assets/topic-5.jpg",
+    "title": "Schloss Rosenau (Waldviertel) - Loge - Tempel 5 Teppich mit Symbolen.jpg",
+    "artist": "Wolfgang Sauber",
+    "license": "CC BY-SA 3.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Schloss_Rosenau_(Waldviertel)_-_Loge_-_Tempel_5_Teppich_mit_Symbolen.jpg"
+  }
+]
